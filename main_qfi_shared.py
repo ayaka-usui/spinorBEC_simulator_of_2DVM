@@ -64,7 +64,7 @@ def plot_energyspectrum(N, ind_data, gamma0, gamma1, M):
 
 # plot_energyspectrum(100, 0, 0.0, 0.99, 100)
 
-####################### for Figs. 4, 7, 9
+####################### for Figs. 4, 7, 8, 9
 
 def generate_base(N):
     dim = int((N + 1) * (N + 2) / 2)
